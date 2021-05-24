@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/jay/wget.git
+	branch = 52dd6da6e0dc972fdeac40033ae42e2623d3938f
+	commit = 52dd6da6e0dc972fdeac40033ae42e2623d3938f
+	parent = 65171280ea2c416b6e5e5e5031fcf01b73da0c6f
+	method = merge
+	cmdver = 0.4.3
